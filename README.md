@@ -4,13 +4,26 @@
 
 I’m Rodrigo Souza, a Senior SDET / QA Automation Engineer based in Brazil, with extensive experience designing, building, and maintaining **scalable automation frameworks** for **web, API, and performance testing**.
 
-I specialize in **Playwright, Cypress, and Selenium**, with strong experience across **UI, API, and backend validation**, fully integrated into **CI/CD pipelines**. I’ve worked in Agile environments with **U.S.-based and international teams**, acting both as a hands-on automation engineer and as a **QA technical leader**.
+I specialize in **Playwright, Cypress, and Selenium**, with strong experience across UI, API, and backend validation, fully integrated into **CI/CD pipelines**. I’ve worked in Agile environments with **U.S.-based and international teams**, acting both as a hands-on automation engineer and as a **QA technical leader**.
 
 My focus is on **quality engineering**, clean automation architecture, and using automation as a strategic enabler for fast, reliable, and scalable software delivery.
 
 ---
 
-## 🧪 Testing, Languages & Technologies
+## 🧪 Automation Tech Stack (What the code represents)
+
+> The languages shown in the GitHub charts below are primarily used for **test automation**, not application development.
+
+- **TypeScript / JavaScript** → Playwright & Cypress (UI + API automation)
+- **Java** → Selenium & Rest Assured (API automation)
+- **Python** → Test utilities, data validation, and automation support
+- **Shell / YAML** → CI/CD pipelines and automation execution
+
+This portfolio focuses on **test automation frameworks**, CI/CD integration, and quality engineering practices.
+
+---
+
+## 🧰 Testing, Languages & Technologies
 
 ### 🔹 Automation & Testing
 <img align="left" alt="Playwright" title="Playwright" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
@@ -32,22 +45,21 @@ My focus is on **quality engineering**, clean automation architecture, and using
 
 <br/><br/>
 
-### 🔹 Backend, Messaging & Databases
-<img align="left" alt="REST APIs" title="REST APIs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
-<img align="left" alt="Kafka" title="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-
-<br/><br/>
-
 ### 🔹 DevOps, CI/CD & Tools
-<img align="left" alt="CI/CD" title="CI/CD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="Jenkins" title="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
+<img align="left" alt="CI/CD" title="CI/CD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 <img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Jira" title="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
+
+<br/><br/>
+
+### 🔹 Databases & Messaging
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+<img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
+<img align="left" alt="Kafka" title="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>
 
 <br/><br/>
 
@@ -71,20 +83,21 @@ My focus is on **quality engineering**, clean automation architecture, and using
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Automation Statistics
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Automation Stats" 
     height="180" 
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigosouza83&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=rodrigosouza83&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true&custom_title=Automation+Activity" 
   />
+
   <img 
     align="left" 
-    alt="Top Languages" 
+    alt="Automation Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosouza83&theme=tokyonight&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosouza83&theme=tokyonight&layout=compact&langs_count=6&hide_title=true&custom_title=Automation+Languages" 
   />
 </p>
