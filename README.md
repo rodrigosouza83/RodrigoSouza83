@@ -85,19 +85,8 @@ This portfolio focuses on **test automation frameworks**, CI/CD integration, and
 
 ## 📊 GitHub Automation Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Automation Stats" 
-    height="180" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigosouza83&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true&custom_title=Automation+Activity" 
-  />
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigosouza83&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
 
-  <img 
-    align="left" 
-    alt="Automation Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosouza83&theme=tokyonight&layout=compact&langs_count=6&hide_title=true&custom_title=Automation+Languages" 
-  />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigosouza83&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
